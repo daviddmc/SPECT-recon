@@ -1,0 +1,9 @@
+﻿  SPECTrecon.cpp
+d:\tsinghua\大四秋季\核医学仪器与方法\spect-recon\spectrecon.cpp(82): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\spect-recon\spectrecon.cpp(128): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\spect-recon\spectrecon.cpp(129): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\spect-recon\spectrecon.cpp(160): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\spect-recon\spectrecon.cpp(161): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\tsinghua\大四秋季\核医学仪器与方法\spect-recon\spectrecon.cpp(172): warning C4305: “初始化”: 从“double”到“float”截断
+d:\tsinghua\大四秋季\核医学仪器与方法\spect-recon\spectrecon.cpp(174): warning C4305: “初始化”: 从“double”到“float”截断
+  SPECTrecon.vcxproj -> D:\tsinghua\大四秋季\核医学仪器与方法\SPECT-recon\x64\Debug\SPECTrecon.exe
